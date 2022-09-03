@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fatih-kacar/](https://www.linkedin.com/in/fatih-kacar/)
 
-- ⚡ Fun fact **I am not even developer**
+- ⚡ Fun fact **I didn't even start as a developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
